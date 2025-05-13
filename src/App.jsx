@@ -7,7 +7,7 @@ import MainPage from './shoppingfolder/pages/MainPage'
 const App = () => {
   return (
     <div>
-    
+    <div>Nag Example</div>
       <MainPage />
     </div>
   )
